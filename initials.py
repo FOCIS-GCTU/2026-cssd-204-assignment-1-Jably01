@@ -1,20 +1,32 @@
 # File: initials.py
-# Description: Prints  out my initials in large block letters.
+# Description: Prints stylized large initials with specific dimensions and padding.
 # Assignment Number: 1
-#
-# Name: JABLY JOEL MAWUNYO KOBLA
-# STUDENT ID:  2425403352
+# 
+# Name: Joel Mawunyo Kobla Jably
+# STUDENT ID: 2425403352
 # Email: 2425403352@live.gctu.edu.gh
-# Grader: Augustus Buckman
-#
-# On my honor, Jably Joel Mawunyo Kobla, this programming assignment is my own work
+# Grader: AUGUSTUS BUCKNAM
+# 
+# On my honor, Joel Mawunyo Kobla Jably, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 
-print("JJJJJJJ   M     M   K    K   JJJJJJJ")
-print("   J      MM   MM   K   K       J   ")
-print("   J      M M M M   K  K        J   ")
-print("   J      M  M  M   KKK         J   ")
-print("J  J      M     M   K  K     J  J   ")
-print("J  J      M     M   K   K    J  J   ")
-print(" JJ       M     M   K    K    JJ    ")
+def main():
+    """Prints stylized initials JMK matching the assignment specification rules."""
+    print()
+    print("...JMK")
+    print()
+    print("...JJJJJJJJJJJJ......DDDD....DDDD......KKKK....KKKK...")
+    print("...JJJJJJJJJJJJ......DDDDD..DDDDD......KKKK...KKKK....")
+    print(".......JJJJ..........DD.DD..DD.DD......KKKK..KKKK.....")
+    print(".......JJJJ..........DD...DD...DD......KKKK.KKKK......")
+    print(".......JJJJ..........DD........DD......KKKKKKKK.......")
+    print(".......JJJJ..........DD........DD......KKKKKKKK.......")
+    print("...J...JJJJ..........DD........DD......KKKK.KKKK......")
+    print("...J...JJJJ..........DD........DD......KKKK..KKKK.....")
+    print("...JJJJJJJJ....**....DD........DD..**..KKKK...KKKK..**")
+    print("....JJJJJJ.....**....DD........DD..**..KKKK....KKKK.**")
+    print()
+
+
+main()
