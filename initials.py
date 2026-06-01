@@ -1,7 +1,7 @@
-
-def main():
-  pass #code goes here
-
-
-
-main()
+print("JJJJJJJ   M     M   K    K   JJJJJJJ")
+print("   J      MM   MM   K   K       J   ")
+print("   J      M M M M   K  K        J   ")
+print("   J      M  M  M   KKK         J   ")
+print("J  J      M     M   K  K     J  J   ")
+print("J  J      M     M   K   K    J  J   ")
+print(" JJ       M     M   K    K    JJ    ")
